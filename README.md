@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hermang05&label=Profile%20views&color=0e75b6&style=flat" alt="hermang05" /> </p>
 
-- 🔭 I’m currently seeking **Summer 2024 Internships**
+- 🔭 I’m currently seeking **Winter 2025 Internships**
 - 📫 How to reach me: **hgahra@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
